@@ -23,7 +23,7 @@
         <div class="page" id="page2">
             <div class="card id-card">
                 <div class="profile-img-container">
-                    <img src="image/Fajar.jpeg" alt="Foto Profil" class="profile-img">
+                    <img src="images/Fajar.jpeg" alt="Foto Profil" class="profile-img">
                 </div>
                 <h3>Hallo kenalan yuk</h3>
                 
