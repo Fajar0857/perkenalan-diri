@@ -8,7 +8,7 @@
 
 body {
     /* Ganti 'nama-foto-background.jpg' dengan nama file gambar kamu */
-    background-image: url(background.jpeg); 
+    background-image: url(image/background.jpeg); 
     
     /* Membuat gambar memenuhi seluruh layar tanpa terpotong/patah */
     background-size: cover; 
